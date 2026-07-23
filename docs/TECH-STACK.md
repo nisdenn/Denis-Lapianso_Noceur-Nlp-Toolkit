@@ -1,3 +1,5 @@
-# TECH-STACK
+# Tech Stack
 
-Document under construction.
+- **Primary Stack**: Python
+- **Dependencies**:
+

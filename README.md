@@ -1,49 +1,55 @@
 # Noceur Nlp Toolkit
 
-A professional project for Noceur Nlp Toolkit.
+A professional Python Script / Application built with Python.
 
 ## Screenshot
 
-![Placeholder](https://via.placeholder.com/800x400.png?text=Noceur-Nlp-Toolkit)
+![Noceur Nlp Toolkit](https://via.placeholder.com/800x400.png?text=Noceur%20Nlp%20Toolkit)
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Responsive Design
+- Modern UI/UX
+- Clean Code Architecture
+- Data Processing
+- Automation
+- Python Utilities
 
 ## Tech Stack
 
-- TBD
+- **Core**: Python
+
 
 ## Folder Structure
 
-`
-+-- src/
-+-- docs/
-+-- .gitignore
-+-- README.md
-+-- LICENSE
-`
+```
+├── src/            # Source code
+├── docs/           # Project documentation (PRD, BRD, SRS)
+├── public/         # Static assets
+├── .gitignore      # Git ignored files
+├── README.md       # Project overview
+```
 
 ## Installation
 
-`ash
-git clone https://github.com/denislapianso/Denis-Lapianso_Noceur-Nlp-Toolkit.git
+```bash
+git clone https://github.com/nisdenn/Denis-Lapianso_Noceur-Nlp-Toolkit.git
 cd Denis-Lapianso_Noceur-Nlp-Toolkit
-`
+pip install -r requirements.txt
+```
 
 ## Usage
 
-`ash
-# Add usage instructions here
-`
+```bash
+python main.py
+```
 
-## Roadmap
+## Documentation
 
-- [ ] Add new features
-- [ ] Improve documentation
-- [ ] Release v1.0.0
+- [Product Requirements Document (PRD)](./docs/PRD.md)
+- [Business Requirements Document (BRD)](./docs/BRD.md)
+- [Software Requirements Specification (SRS)](./docs/SRS.md)
+- [Project Structure](./docs/PROJECT-STRUCTURE.md)
 
 ## Author
 
