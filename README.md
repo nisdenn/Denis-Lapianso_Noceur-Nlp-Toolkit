@@ -2,9 +2,6 @@
 
 A professional Python Script / Application built with Python.
 
-## Screenshot
-
-![Noceur Nlp Toolkit](https://via.placeholder.com/800x400.png?text=Noceur%20Nlp%20Toolkit)
 
 ## Features
 
